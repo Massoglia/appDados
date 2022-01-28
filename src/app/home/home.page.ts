@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
   img1 = '../../assets/img/dice1.png';
-  img2 = '../../assets/img/dice2.png'
+  img2 = '../../assets/img/dice2.png';
 
   constructor() {}
 
